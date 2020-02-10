@@ -1,0 +1,18 @@
+h1{
+    color:black;
+    border-bottom:10px solid red;
+    font-size: 100px;
+}
+    
+p{font-size:20px;
+    color:green
+}
+h3{color:white;
+    font-size: 15;
+    border:2px solid green;
+    background-color: darkgreen;
+    border-width: 50%;
+    width: 10%;
+    border-radius: 50px 50px;
+padding:20px;
+}
